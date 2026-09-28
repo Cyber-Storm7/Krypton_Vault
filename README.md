@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" width="128" alt="Krypton Vault Logo" />
+  <img src="assets/logo.png" width="160" alt="Krypton Vault Logo" style="border-radius: 20px;" />
   <h1>Krypton Vault</h1>
   <p><strong>Zero-Knowledge, 100% Air-Gapped Personal Credentials Manager & Peer-to-Peer Security Suite</strong></p>
 </div>
@@ -142,13 +142,14 @@ krypton-vault/
 │           │   │   ├── theme/               # 12-theme palette & OLED pitch-black tokens
 │           │   │   └── viewmodel/           # VaultViewModel & AuthViewModel
 │           │   └── util/                    # LifecycleManager, ClipboardHelper, SecurityPrefs
-│           └── res/                         # Vector icons, themes, and XML configurations
+├── assets/
+│   └── logo.png                             # Application logo
 ├── .github/workflows/
 │   └── build-apk.yml                        # Automated CI APK build & release pipeline
 ├── build.gradle.kts                         # Root Gradle script
 ├── settings.gradle.kts                      # Gradle settings & dependency repos
 ├── memory.md                                # Comprehensive engineering log & bug catalog
-└── Read.me                                  # Project documentation
+└── README.md                                # Project documentation
 ```
 
 ---
