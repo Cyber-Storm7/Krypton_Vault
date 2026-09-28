@@ -152,7 +152,7 @@ krypton-vault/
 ├── build.gradle.kts                         # Root Gradle script
 ├── settings.gradle.kts                      # Gradle settings & dependency repos
 ├── memory.md                                # Comprehensive engineering log & bug catalog
-└── Read.me                                  # Project documentation
+└── README.md                                  # Project documentation
 ```
 
 ---
