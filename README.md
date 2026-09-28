@@ -1,8 +1,8 @@
-# <p align="center"><img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" alt="Krypton Vault Logo" width="128" /><br>Krypton Vault</p>
-
-<p align="center">
-  <strong>Zero-Knowledge, 100% Air-Gapped Personal Credentials Manager & Peer-to-Peer Security Suite</strong>
-</p>
+<div align="center">
+  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" width="128" alt="Krypton Vault Logo" />
+  <h1>Krypton Vault</h1>
+  <p><strong>Zero-Knowledge, 100% Air-Gapped Personal Credentials Manager & Peer-to-Peer Security Suite</strong></p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android_8.0+_(API_26--36)-34D399?style=for-the-badge&logo=android&logoColor=white" alt="Platform: Android">
