@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:angle="315"
+                android:endX="108"
+                android:endY="108"
+                android:startX="0"
+                android:startY="0"
+                android:type="linear">
+                <item android:color="#060D0A" android:offset="0.0" />
+                <item android:color="#0A1B14" android:offset="0.5" />
+                <item android:color="#0D2C1E" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Subtle Hexagonal Security Grid Lines in Emerald & Electric Mint -->
+    <path
+        android:strokeColor="#059669"
+        android:strokeWidth="0.8"
+        android:pathData="M54,18 L84,35 L84,73 L54,90 L24,73 L24,35 Z" />
+    <path
+        android:strokeColor="#00F5D4"
+        android:strokeWidth="0.5"
+        android:pathData="M54,26 L76,39 L76,69 L54,82 L32,69 L32,39 Z" />
+</vector>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Vault Outer Shield Outline in Radiant Electric Mint & Emerald -->
+    <path
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,26 C64,26 78,30 78,41 C78,63 67,77 54,82 C41,77 30,63 30,41 C30,30 44,26 54,26 Z">
+        <aapt:attr name="android:strokeColor">
+            <gradient
+                android:endX="78"
+                android:endY="82"
+                android:startX="30"
+                android:startY="26"
+                android:type="linear">
+                <item android:color="#00F5D4" android:offset="0.0" />
+                <item android:color="#10B981" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Inner Shield Shackle and Padlock Body -->
+    <!-- Shackle -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:pathData="M48,48 L48,43 C48,39.68 50.68,37 54,37 C57.32,37 60,39.68 60,43 L60,48" />
+    <!-- Padlock Body in Emerald / Electric Mint -->
+    <path
+        android:pathData="M43,48 L65,48 C66.65,48 68,49.35 68,51 L68,66 C68,67.65 66.65,69 65,69 L43,69 C41.35,69 40,67.65 40,66 L40,51 C40,49.35 41.35,48 43,48 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="68"
+                android:endY="69"
+                android:startX="40"
+                android:startY="48"
+                android:type="linear">
+                <item android:color="#00F5D4" android:offset="0.0" />
+                <item android:color="#059669" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Keyhole in Obsidian Dark -->
+    <path
+        android:fillColor="#060D0A"
+        android:pathData="M54,53 A2.5,2.5 0 1,0 54,58 L52.8,63 L55.2,63 Z" />
+    <!-- Glowing Accent Sparks in Electric Mint -->
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M54,20 L55.5,23.5 L59,25 L55.5,26.5 L54,30 L52.5,26.5 L49,25 L52.5,23.5 Z" />
+</vector>
